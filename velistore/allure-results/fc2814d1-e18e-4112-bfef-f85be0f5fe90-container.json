@@ -1,0 +1,1 @@
+{"uuid":"fc2814d1-e18e-4112-bfef-f85be0f5fe90","name":"Utiles.Chromerunner.setUp","children":["d9eae702-06ad-42dc-9a51-74032b5dc38c"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1688985831218,"stop":1688985832939}],"afters":[],"start":1688985831218,"stop":1688985832940}

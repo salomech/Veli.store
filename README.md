@@ -1,2 +1,0 @@
-# Veli.store
-Final Project
